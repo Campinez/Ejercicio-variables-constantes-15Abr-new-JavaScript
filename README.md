@@ -1,2 +1,2 @@
-# Ejercicios-JavaScript
+# Ejercicio variables, constantes i bucles-JavaScript
  
